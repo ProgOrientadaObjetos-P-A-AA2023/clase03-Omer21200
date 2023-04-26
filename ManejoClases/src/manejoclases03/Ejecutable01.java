@@ -16,7 +16,6 @@ public class Ejecutable01 {
         // hospital.nombre = "Isidro Ayora";
         String nHospital = "Isidro Ayora";
         hospital.establecerNombre(nHospital);
-        
         // hospital.numeroCamas = 100;
         hospital.establecerNumeroCamas(100);
         // hospital.presupuesto = 560340.43;

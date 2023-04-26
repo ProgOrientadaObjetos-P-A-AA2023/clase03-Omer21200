@@ -9,7 +9,7 @@ public class Ejecutable {
     public static void main(String[] args) {
         // Se crea un objeto
         Hospital hospital = new Hospital();
-        
+ 
         // Se asigna valores particulares al objeto
         hospital.nombre = "Isidro Ayora";
         hospital.numeroCamas = 100;
